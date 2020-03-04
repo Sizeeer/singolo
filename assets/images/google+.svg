@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 34" width="33" height="34">
+	<defs>
+		<image width="33" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAiCAMAAADmrkDzAAAAAXNSR0IB2cksfwAAAHhQTFRFAAAAZW2JZW2JZW2JZW2JZW2JZW2JZW2JZG2IZGuJZGyHYGiHZW2JZG2JZW2JZWyIZGyHYGCAZGyHZW2JZW2HZW2JZW2JZW2JZW2JZW2JZW2JZW2JZW2JZW2JZWqFZW2JZW2JZW2JZW2JZG2JZWyJY2yIZGyJYWmGBg5hvQAAACh0Uk5TAE+fv8//IO+wcEAgEA5/4IAQoDBggKDfQGBQj5DAMHDQ8K/gr29/P6w+PXUAAAFgSURBVHiclVPbgoIgECVgRM1SMrQsXVit/v8Pd7BQSH3YeRgZOZy5E/If2VHGATiju9XriIo4SfeE7NMkFjT7vj8c80LOpizy4yEAZPwkwycy5j5NKZKl20SUM4M4r0V2Fo7lwFcYRhb+OajTOoCQWI2fKJdbCJmPfqrChUMBQFAfUlRWC0fB68sVIApIBKom/lgXQK8ULmEkDTpxiSi4WYUIYHM6d0LadOLA/Kn14iHSFr3vncWhpnArGQPBHKbDksCEz34Y1Eg1ivsJPgL7A2CT9bzYa905ClXbxypAdNqLlAGOTQNYAXUNIp2yhbFP1Pf6znaqGEaJUotFxYiRLlmuMJSbD5DGate56Nc2TgUU785l/Xb3+/eUqWELMThGvTWF2p0ysz7JZt6H0jyWgKcpPSvTw/dGDfprMVX/9Lfy2YdpjzSVGR4vbGP3egymWmz2KE3VagDd3pvV6035A9VaEYksFuWBAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="About Us">
+		<g id="Social Media">
+			<g id="Google">
+				<use id="Ellipse 2 copy" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

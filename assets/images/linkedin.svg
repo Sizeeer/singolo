@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 34" width="33" height="34">
+	<defs>
+		<image width="33" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAiCAMAAADmrkDzAAAAAXNSR0IB2cksfwAAAG9QTFRFAAAAZW2JZW2JZW2JZW2JZW2JZW2JZW2JZG2IZGuJZGyHYGiHZW2JZG2JZW2JZWyIZGyHYGCAZGyHZW2JZW2HZW2JZW2JZW2JZW2JZW2JZW2JZW2JZW2JZWqFZW2JZW2JZG2JZWyJY2yIZGyJYWmGQDqf4AAAACV0Uk5TAE+fv8//IO+wcEAgEA5/4IAQoDBggKDfQFCQwI8w0PDgr29/P392PHoAAAE0SURBVHiclZPJooMgDEVTS4oDrVKLT2sF0f7/NxYHnMDFyyIGOF4gCQD/sUtwJYjkGly8y7eAhlGcACRxFNKAHdfvjzTj65Bn6eO+Axh58v0vPCRbmZxG7rYRzVcF+vKd7EWtyp14FEYVMgfi6QcAQjF+bik/I3g67lNk05Dgn5OErBg8nSUQsXREqHFVCFaDOhoQVmaT5SKOgrHoDVDHsO5SIoqPCT6WiGsjnuwJioOJebIxKUHYE0gDA9Fl1kOUUBm/IWRzIEwOV6KR7klxCjcnXW7rJYbbLhnzEkPGQPFzgqvB28r5iKlyrD2vfjtVSugzQtvUyrMulDZiyt/Jau2GXHUu0Kt8M2JSH1+Ulod+Em2/fZV9K+BorFC6+5oyNt9Oq8JtyMGqopaIsn5X3uVT+wHGHRF434G9jgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="About Us">
+		<g id="Social Media">
+			<g id="LinkedIn">
+				<use id="Ellipse 2 copy 3" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

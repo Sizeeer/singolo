@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 34" width="33" height="34">
+	<defs>
+		<image width="33" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAiCAMAAADmrkDzAAAAAXNSR0IB2cksfwAAAHhQTFRFAAAAZW2JZW2JZW2JZW2JZW2JZW2JZW2JZG2IZGuJZGyHYGiHZW2JZG2JZW2JZWyIZGyHYGCAZGyHZW2JZW2HZW2JZW2JZW2JZW2JZW2JZW2JZW2JZW2JZW2JZW2JZW2JZWqFZW2JZW2JZG2JZWyJY2yIZGyJYWmGbEtZMgAAACh0Uk5TAE+fv8//IO+wcEAgEA5/4IAQoDBggKDfj2BQr0CQwHAw0PDgr29/P2bSyDoAAAFOSURBVHiclVPbloMgDEwpiBdapRardmsFtf3/P1ylUPB29mwekJyMk0lCAP5jB3TEhOAjOmyGA0TDKE4AkjgKKWLL+OmcZty5PEvPpxmA4Quf/8JD7NPkNFqnjWjuGOh1S9mVWpYT3mDQLNhcxGUbABAK/QlSvofgqc5TZHsAgKyYTmoogo/0/EZIWZWGhI5HHVo5ujpGyWR3q6Qek9hCBKGCwY8GkMqW8wBoYuNMMYqQBhytkLgBwIlxnsSZTQLt2BJincpDPL/VEA8ByCFyHyFb69RfwFcGtNJTOj6BNcWktHBjY/d5qaZa1zHx4aAeQHcMlO06mtp5KwMPwNV0/j051u1Pv/u8MtHvIXphLnLvFUp7Y2r7JSu3D7ka1oCXyj2PyX65Ub1cLKboXv5WvjoBS2OF6od3Ow7rPfSqWG22trpoJCGyedSb4V37BQk6EfrJgfumAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="About Us">
+		<g id="Social Media">
+			<g id="Twitter">
+				<use id="Ellipse 2 copy 2" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>
